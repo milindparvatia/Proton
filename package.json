@@ -1,5 +1,5 @@
 {
-  "name": "projoint",
+  "name": "proton",
   "version": "1.0.0",
   "description": "app to create porjects idea",
   "main": "app.js",
@@ -9,6 +9,8 @@
   "author": "Milind Parvatia",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.13.9"
   }
 }
